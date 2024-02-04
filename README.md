@@ -26,13 +26,14 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://imgur.com/a/uSuNiDY' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![HW1COP4808-9](https://github.com/JohnMcmen/Hw1/assets/98662843/31d432ac-584c-4a56-b1f0-af998c668076)
+
 
 GIF created with screen to gif
 
 ## Notes
 
-There werent many challenges while building this application. The biggest hurdle was refreshing my memory on the fundementals of react js, html, and css. 
+There weren't many challenges while building this application. The biggest hurdle was refreshing my memory on the fundamentals of react js, html, and css. 
 
 ## License
 
